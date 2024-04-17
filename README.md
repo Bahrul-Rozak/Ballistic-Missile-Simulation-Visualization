@@ -7,6 +7,9 @@ This project aims to create visualizations of ballistic missile simulations usin
 
 To run the simulation, you will need Python installed on your machine. Clone this repository and run the `ballistic_missile_simulation.py` file. Follow the on-screen instructions to input the initial velocity and launch angle.
 
+![image](https://github.com/Bahrul-Rozak/Ballistic-Missile-Simulation-Visualization/assets/57394564/7353d2b4-9f0e-4360-842a-0b383484b4ab)
+
+
 ## Dependencies
 
 - Python 3.x
